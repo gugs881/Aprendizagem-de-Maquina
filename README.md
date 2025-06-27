@@ -1,2 +1,2 @@
-# Aprendizagem-de-M-quina
+# Aprendizagem-de-Maquina
 Final Test
