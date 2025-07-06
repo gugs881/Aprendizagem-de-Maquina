@@ -1,4 +1,4 @@
-# Aprendizagem-de-Maquina
+# Machine Learning
 Summary
 This multiclass classification project for predicting football match outcomes employed a variety of approaches and models. Below is a detailed summary of the steps, methods, and reasoning behind each decision:
 
